@@ -1,0 +1,4 @@
+<$MKINCDIR/config
+PROGNAME = sniff2json
+CFILES = main.c
+
