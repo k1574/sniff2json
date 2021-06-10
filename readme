@@ -1,6 +1,6 @@
 # sniff2json
 
 Convert raw IP packets into JSON.
-Right now nothing is implemented.
-Pushed in just to save already done work.
+Made just to research on IP, TCP etc structures
+and to have example for further programming.
 
